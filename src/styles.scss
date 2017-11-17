@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.button {
+  background-color: #339933;
+  border: 0.1rem solid #339933;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 4em;
+  position: relative;
+}
+
+.chatfield:focus {
+  border-color: silver !important;
+}
